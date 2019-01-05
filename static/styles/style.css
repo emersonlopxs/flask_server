@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  background-color: #eee;
+}
+
+.form {
+  /* background-color: red; */
+  margin: 50px;
+}
+
+.field {
+  margin: 20px;
+}
+
+h1 {
+  /* color: red; */
+}
